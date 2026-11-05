@@ -1,0 +1,7 @@
+alpine/
+cache/
+fx.tar.xz
+txData/
+server.cfg
+server.cfg.bkp
+*.bkp
